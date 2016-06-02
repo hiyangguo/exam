@@ -1,4 +1,4 @@
-1. 现有代码如下:
+1.现有代码如下:
 
 ```html
 <!DOCTYPE html>
@@ -29,7 +29,7 @@
     
 [答案](http://runjs.cn/code/g3zwsjky)
 
-2. 对元素设置`style="position: relative;left: 100px"`具有以下哪种效果?
+2.对元素设置`style="position: relative;left: 100px"`具有以下哪种效果?
 
 - A.元素向左移动100px，原有空间不再保留
 - B.元素向左移动100px，原有空间留下一片空白
@@ -39,7 +39,7 @@
 
 [答案](http://runjs.cn/code/lmalvdsr)
  
-3. 现有如下css代码
+3.现有如下css代码
 
 ```css
 .triangle {
