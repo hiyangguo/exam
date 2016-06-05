@@ -100,3 +100,20 @@
 - E.在不涉及样式情况下,页面元素的优先显示与标签选用无关。
 
 [答案](https://github.com/hiyangguo/exam/issues/4)
+
+8.伪类和伪元素是什么？它们有什么区别?
+
+9.请列举一下你所了解的css框架(名称即可)
+
+10.用`less`或`Sass`语法实现一个按钮样式**mixin**。（选作）
+
+编译后的代码如下
+```css
+.btn-primary{
+   background: #1b9451;
+   border-color: #1b9451;
+   color: #fff;
+   font-size: 14px;
+   padding: 7px 18px;
+}
+```
