@@ -89,10 +89,14 @@
 - C.当在一个样式声明上使用 !important 规则时，该样式声明会覆盖CSS中任何其他的声明。
 - D.以上均为正确答案
 
-8.下列描述正确的是
+[答案](https://github.com/hiyangguo/exam/issues/3)
+
+7.下列描述正确的是
 
 - A.css属性font-style用于设置字体的粗细
 - B.css只能通过<link>引入
 - C.`visibility: hidden;`的效果和`display:none`的效果完全相同
 - D.`z-index`对所有元素都有效
 - E.在不涉及样式情况下,页面元素的优先显示与标签选用无关。
+
+[答案](https://github.com/hiyangguo/exam/issues/4)
